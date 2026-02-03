@@ -1,5 +1,6 @@
 .main {
     margin-top: 250px;
+    text-align: center;
 }
 
 .google-logo {
@@ -26,9 +27,7 @@
 
 .btn-wrapper {
     margin-top: 24px;
-    display: flex;
-    justify-content: center;
-    gap: 8px;
+    
 }
 
 .btn {
