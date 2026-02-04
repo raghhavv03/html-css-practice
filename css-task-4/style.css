@@ -1,0 +1,12 @@
+@font-face {
+    src: url("./TheGodfather-v2.ttf");
+    font-family: Godfather;
+}
+
+.font-godfather {
+    font-family: Godfather;
+    font-size: 48px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 200px;
+}

@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-image: url("./universe.jpg");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
