@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+}
+
+.card {
+    width: 600px;
+    height: 400px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+
+.pink-border {
+    border: 10px solid pink;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 175px;
+    border-radius: 30px;
+}
+
+.personal-details {
+    align-items: ;
+}

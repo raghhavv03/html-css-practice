@@ -1,0 +1,38 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    width: 500px;
+    height: 250px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.pink-border {
+    border: 10px solid pink;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 175px;
+    border-radius: 30px;
+}
+
+.profile-pic-container {
+    display: flex;
+    flex-direction: row;
+    ali
+}
+
+.personal-details-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
