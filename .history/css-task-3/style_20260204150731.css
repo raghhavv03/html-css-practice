@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-image: url("./universe.jpg");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.underline {
+    text-decoration: underline;
+    color: red;
+}
+
