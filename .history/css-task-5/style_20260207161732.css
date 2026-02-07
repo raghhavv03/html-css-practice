@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    background-color: lightblue;
+    background-color: bl;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -20,22 +20,5 @@ body {
     width: 200px;
     height: 300px;
     border-radius: 50px;
-    border: solid 10px pink;
 }
 
-h1 {
-    font-size: 80px;
-    margin-bottom: 20px;
-    text-shadow: 5px 5px 3px pink;  
-}
-
-h2 {
-    font-size: 40px;
-    margin-bottom: 10px;
-    text-shadow: 5px 5px 3px pink;
-}
-
-p {
-    font-size: 20px;
-    text-shadow: 5px 5px 3px pink;
-}
