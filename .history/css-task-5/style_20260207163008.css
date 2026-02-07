@@ -19,24 +19,24 @@ body {
 #birthday-image {
     width: 200px;
     height: 300px;
-    margin-bottom: 20px;
     border-radius: 50px;
     border: solid 10px pink;
 }
 
 h1 {
-    color: red;
+    color: ;
     font-size: 80px;
     margin-bottom: 20px;
     text-shadow: 5px 5px 3px pink;  
 }
 
 h2 {
-    background-color: pink;
+    font-size: 40px;
     margin-bottom: 10px;
-    padding: 0px 10px;
+    text-shadow: 5px 5px 3px pink;
 }
 
-h3 {
+p {
     font-size: 20px;
+    text-shadow: 5px 5px 3px pink;
 }
