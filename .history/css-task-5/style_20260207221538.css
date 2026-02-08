@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Birthstone", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#birthday-image {
+    width: 230px;
+    height: 300px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    border: solid 10px pink;
+}
+
+h1 {
+    color: red;
+    font-size: 80px;
+    margin-bottom: 20px;
+    text-shadow: 5px 5px 3px pink;  
+}
+
+h2 {
+    background-color: pink;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#gift-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    border: solid 10px pink;
+}
+
+
+
